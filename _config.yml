@@ -1,8 +1,7 @@
-title: Rachits Blog
-description: "August 2023 to June 2024"
-owner_name: Rachit Jaiswal
-github_username: rachit-j
-baseurl: "/Rackets-CSSE-Blog"
+title: Lucky-Charm Blog
+description: "Yuna's blog"
+owner_name: Yuna Lee
+github_username: Yuna599
 remote_theme: jekyll/minima
 #remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
